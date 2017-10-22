@@ -1,0 +1,54 @@
+{
+  "_from": "angularjs-quickstart",
+  "_id": "angularjs-quickstart@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-bIgmxQsq9TwhhG/HpRkYmaXN5ms=",
+  "_location": "/angularjs-quickstart",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "angularjs-quickstart",
+    "name": "angularjs-quickstart",
+    "escapedName": "angularjs-quickstart",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angularjs-quickstart/-/angularjs-quickstart-1.0.0.tgz",
+  "_shasum": "6c8826c50b2af53c21846fc7a5191899a5cde66b",
+  "_spec": "angularjs-quickstart",
+  "_where": "D:\\projects",
+  "author": {
+    "name": "zamarrowski",
+    "email": "sergiozamarro@hotmail.com",
+    "url": "http://www.sergiozamarro.me"
+  },
+  "bugs": {
+    "url": "https://github.com/zamarrowski/AngularJS-QuickStart/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Template to get started fast with angularjs",
+  "homepage": "https://github.com/zamarrowski/AngularJS-QuickStart#readme",
+  "keywords": [
+    "scaffold",
+    "angularjs",
+    "quickstart"
+  ],
+  "license": "ISC",
+  "main": "app.js",
+  "name": "angularjs-quickstart",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zamarrowski/AngularJS-QuickStart.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

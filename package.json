@@ -1,0 +1,20 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "simpleserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "alex"
+  ],
+  "author": "alexander",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.4",
+    "morgan": "^1.9.0"
+  }
+}
